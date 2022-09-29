@@ -1,0 +1,25 @@
+¿Qué es un Framework?
+	Un framework es un esquema o marco de trabajo que ofrece una estructura base para elaborar un proyecto con objetivos específicos, una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software
+-Diferentes Frameworks
+1_Angular
+	Angular es un Framework de JavaScript de código abierto escrito en TypeScript. Su objetivo principal es desarrollar aplicaciones de una sola página. 
+	La función principal de Angular es construir aplicaciones web complejas. También se puede utilizar para crear aplicaciones universales (es decir, una base de código que se despliega tanto en la web como en las plataformas móviles)
+	Angular es una plataforma y un framework para crear aplicaciones de una sola página en el lado del cliente usando HTML y TypeScript. Angular está escrito en TypeScript. Implementa la funcionalidad básica y opcional como un conjunto de bibliotecas TypeScript que importas en tus aplicaciones.
+	Angular es ideal para crear aplicaciones interactivas y con una alta participación del usuario, mientras que React es perfecto para aplicaciones grandes donde cambie la data frecuentemente. Angular funciona con un DOM real, mientras que React utiliza un DOM virtual.
+2_React
+	React te ayuda a crear interfaces de usuario interactivas de forma sencilla. Diseña vistas simples para cada estado en tu aplicación, y React se encargará de actualizar y renderizar de manera eficiente los componentes correctos cuando los datos cambien.
+	React (también llamada React. js o ReactJS) es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre.
+3_Symfony
+	Symfony es un completo framework diseñado para optimizar el desarrollo de las aplicaciones web. Para empezar, separa la lógica de negocio, la lógica de servidor y la presentación de la aplicación web. Proporciona varias herramientas y clases encaminadas a reducir el tiempo de desarrollo de una aplicación web compleja
+	Es un framework para construir aplicaciones web con PHP. En otras palabras, Symfony es un enorme conjunto de herramientas y utilidades que simplifican el desarrollo de las aplicaciones web. Para los iniciados en los frameworks, Symfony es una de las mejores copias para PHP
+-Diferencias
+Angular vs React
+¿En qué se diferencia React de Angular?
+	React es una biblioteca, pero Angular es un marco completo. React.js utiliza el DOM virtual y el enlace de datos unidireccional, pero Angular utiliza el DOM real y el enlace de datos bidireccional. También hay una diferencia de velocidad (React es más rápido) y una diferencia en el tamaño del paquete (React es más pequeño) (React funciona un poco más rápido).
+
+¿Es Angular mejor que React?
+Debido a su implementación de DOM virtual y optimizaciones de renderizado, React supera a Angular. También es sencillo cambiar entre las versiones de React; a diferencia de Angular, no tiene que instalar las actualizaciones una por una. Finalmente, al usar React, los desarrolladores tienen acceso a una amplia gama de soluciones preconstruidas.
+
+-React JS
+React JS es una biblioteca de JavaScript declarativa, eficiente y flexible para crear interfaces de usuario . Le permite componer interfaces de usuario complejas a partir de fragmentos de código pequeños y aislados llamados "componentes".
+ Su objetivo es permitir a los desarrolladores crear fácilmente interfaces de usuario rápidas para sitios web y aplicaciones por igual . El concepto principal de React. js es DOM virtual.
